@@ -46,8 +46,6 @@ public static class Program
                 }
             }
 
-            //Thread.Sleep(250);
-
             if (++counter == 500)
             {
                 // counter = 0;
